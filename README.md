@@ -1,5 +1,6 @@
 **SQL Academy Database Problem Solver**
 
+Problem link: https://sql-academy.org/en/trainer
 
 **Overview**
 
